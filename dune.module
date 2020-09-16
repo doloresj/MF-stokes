@@ -1,0 +1,10 @@
+################################
+# Dune module information file #
+################################
+
+#Name of the module
+Module: MF-stokes
+Version: 1.0
+Maintainer: borjarukavina@gmail.com
+#depending on
+Depends: dune-common dune-geometry dune-uggrid dune-grid dune-localfunctions dune-alugrid dune-istl dune-typetree dune-functions dune-pdelab
